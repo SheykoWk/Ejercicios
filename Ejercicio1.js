@@ -1,4 +1,4 @@
-function toArray() {
+function toArray(obj) {
     //Implementación
     return 0;
 }

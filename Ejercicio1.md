@@ -12,10 +12,9 @@ Escribe una función que convierta un objeto en un arreglo, donde cada elemento 
     Output = [["shrimp", 15], ["tots", 12]]
 ```
 ```javascript
-    Input = toArray({ )
+    Input = toArray({})
     Output = []
 ```
 
 ## Notas:
 - Regresa un arreglo vacio si el objeto esta vacio.
-
